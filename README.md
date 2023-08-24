@@ -8,3 +8,5 @@
  --JQuery
  --Bootsramp
  --E56
+
+#Esta es una modificación nueva en local, para adaptarse al remoto
